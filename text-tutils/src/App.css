@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;500&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: whitesmoke;
+    /* background-color: linear-gradient( 95.2deg, rgba(173,252,234,1) 26.8%, rgba(192,229,246,1) 64% ); */
+}
+
+/* .navbar
+{
+    background-color: aliceblue
+} */
+
+
+.textarea {
+
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    outline: none;
+    border: none;
+}
+
+input[type="text"],
+textarea {
+    outline: none;
+    box-shadow: none !important;
+    border: 0px solid #ccc !important;
+}
+
+.btn {
+    margin: 10px;
+
+}
